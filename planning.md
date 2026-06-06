@@ -150,7 +150,7 @@ I plan to use Claude as my primary tool throughout the pipeline, with Copilot fo
 
 **RAG Pipeline:** I will give Claude the full planning.md and ask it to wire together the chunking, embedding, retrieval, and generation steps into a working pipeline. I will verify the output against my Evaluation Plan by running all 5 test questions and checking that answers align with expected responses.
 
-**Debugging:** When outputs are unexpected, I will share the relevant code and retrieved chunks with Claude and ask it to identify where the pipeline is breaking down. I will cross-reference with ChatGPT if Claude's explanation is unclear.
+**Debugging:** When outputs are unexpected, I will share the relevant code and retrieved chunks with Claude and ask it to identify where the pipeline is breaking down. I will cross-reference with ChatGPT if Claude's explanation is unclear.
 
 **Milestone 3 — Ingestion and chunking:**
 
