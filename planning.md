@@ -44,9 +44,15 @@ This guide covers indie game artists transitioning from digital art into game de
 
 **Chunk size:**
 
+1000 characters
+
 **Overlap:**
 
+200 characters overlap
+
 **Reasoning:**
+
+My documents are long-form interviews, blog posts, and Reddit discussions where ideas are expressed across multiple sentences. A 1000-character chunk provides enough room to capture a complete thought or argument without cutting off mid-idea. The 200-character overlap ensures that context carries over at chunk boundaries, important for interview-style documents where a question and its answer may span adjacent chunks.
 
 ---
 
@@ -60,9 +66,15 @@ This guide covers indie game artists transitioning from digital art into game de
 
 **Embedding model:**
 
+all-MiniLM-L6-v2 via sentence-transformers
+
 **Top-k:**
 
+5 
+
 **Production tradeoff reflection:**
+
+If I were deploying this for real users and cost wasn't a constraint, I would consider a model like text-embedding-3-large (OpenAI) or embed-english-v3.0 (Cohere) for better accuracy on domain-specific language. My documents mix technical game dev vocabulary with artistic terminology; a larger, more capable embedding model would handle that intersection more reliably than all-MiniLM-L6-v2, which is optimized for speed over nuance. I would also weigh context length, since some of my chunks come from long interviews where meaning is spread across sentences; a model with a larger context window would embed those more faithfully. The main tradeoff is latency: larger models are slower and more expensive.
 
 ---
 
@@ -75,11 +87,11 @@ This guide covers indie game artists transitioning from digital art into game de
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 | What kinds of artists or designers transition into indie game development? | UX designers, illustrators, 3D artists, concept artists, and traditional fine artists; each bringing different strengths and facing different technical gaps [Medium, 80.lv, gamedeveloper.com #9]|
+| 2 |  What game engines do artist-first developers most commonly recommend for beginners with no coding background?  | Godot is frequently recommended for its free, lightweight nature and beginner-friendly GDScript; other engines are chosen based on project type rather than one-size-fits-all [Medium, 80.lv, r/IndieDev] |
+| 3 |  What are the biggest struggles artists face when learning to code for game development? | Moving from visual thinking to logic-based programming, choosing the right engine, and the lack of structured learning paths designed for artists rather than programmers [r/gamedev, r/IndieDev, gamedeveloper.com #8] |
+| 4 | How do solo indie developers with an art background handle the parts of game dev they're weakest at? | Common strategies include collaborating with a programmer, using visual scripting tools, leaning into art-heavy styles that minimize complex code, or spending dedicated time learning one engine deeply [r/IndieDev, gamedeveloper.com #8, gamedeveloper.com #9] |
+| 5 | What art styles are most recommended for artists transitioning into game dev with limited technical resources? | Low-poly, pixel art, and minimalist styles are consistently recommended as forgiving and achievable; tool choices like Aseprite and Clip Studio Paint are highlighted for artists already comfortable with digital tools [r/IndieDev, Juego Studios, pixune.com, Creative Bloq] |
 
 ---
 
@@ -89,9 +101,9 @@ This guide covers indie game artists transitioning from digital art into game de
      Consider: noisy or inconsistent documents, missing source attribution, off-topic
      retrieval, chunks that split key information across boundaries. -->
 
-1.
+1. **Inconsistent and anecdotal sources:** My documents span interviews, Reddit threads, and blog posts — each structured differently and written from personal experience. This means retrieved chunks may contradict each other (e.g. one dev recommending Godot while another warns against it for artists), making it harder for the system to produce a single coherent answer. Handling conflicting perspectives without dismissing either will require careful prompt design.
 
-2.
+2. **Noisy chunks from long-form discussions:** Reddit threads and interview transcripts contain significant off-topic content — tangents, jokes, promotional asides, and follow-up comments that dilute the signal. A 1000-character chunk from a Reddit thread might contain one useful sentence surrounded by noise, leading to off-topic retrieval. Pre-processing and careful source selection will be important to mitigate this.
 
 ---
 
@@ -102,6 +114,19 @@ This guide covers indie game artists transitioning from digital art into game de
      Label each stage with the tool or library you're using.
      You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
+
+```mermaid
+flowchart LR
+    A[Document] --> B[Chunking]
+    B --> C[Embedding + Vector Store]
+    C --> D[Retrieval]
+    D --> E[Generation]
+
+    B -.-> B1["1000 chars\n200 char overlap"]
+    C -.-> C1["all-MiniLM-L6-v2\nsentence-transformers"]
+    C -.-> C2["ChromaDB"]
+    D -.-> D1["Top-k: 5"]
+```
 
 ---
 
@@ -116,6 +141,16 @@ This guide covers indie game artists transitioning from digital art into game de
      "I'll use AI to help me code" is not a plan.
      "I'll give Claude my Chunking Strategy section and ask it to implement chunk_text()
      with my specified chunk size and overlap" is a plan. -->
+
+I plan to use Claude as my primary tool throughout the pipeline, with Copilot for in-editor autocomplete and ChatGPT occasionally for cross-referencing outputs.
+
+**Chunking (`chunk_text()`):** I will give Claude my Chunking Strategy section (1000-character chunks, 200-character overlap) and ask it to implement a `chunk_text()` function matching those exact parameters. I will verify the output by running it on a sample document and manually confirming chunk sizes and overlap boundaries are correct.
+
+**Embedding & Retrieval:** I will give Claude my Retrieval Approach section (all-MiniLM-L6-v2, top-5) and ask it to implement the embedding and retrieval pipeline. I will verify by querying with one of my evaluation questions and checking that 5 relevant chunks are returned.
+
+**RAG Pipeline:** I will give Claude the full planning.md and ask it to wire together the chunking, embedding, retrieval, and generation steps into a working pipeline. I will verify the output against my Evaluation Plan by running all 5 test questions and checking that answers align with expected responses.
+
+**Debugging:** When outputs are unexpected, I will share the relevant code and retrieved chunks with Claude and ask it to identify where the pipeline is breaking down. I will cross-reference with ChatGPT if Claude's explanation is unclear.
 
 **Milestone 3 — Ingestion and chunking:**
 
