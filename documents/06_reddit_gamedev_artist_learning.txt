@@ -1,0 +1,163 @@
+It seems artists have an easier time becoming programmers than programmers becoming artists. Where as a programmer do you even start?
+
+Just ranting a bit and shooting from the hip here but programming, especially for games, is increasingly being democratized. Visual programming and "Code-less" paradigms are becoming increasingly more common. Resources like r/learnprogramming are huge repositories of free learning, allowing people to quickly gain the fundamentals of programming, alongside tons of documentation and videos progressing step-by-step. The tools for programming are also all made freely available (VS, Unity, UE, Godot, etc).
+
+By contrast, there is no "democratization" movement occurring in the art space. The only way to be an artist is to use a brush and paper like it's 1780, and just spend time. Drawing tablets have moved the medium to the digital world but the tools and techniques haven't changed in all that time, meaning that as a programmer, your only recourse for having art in your games is to hire/contract an artist or spend the next 7 years getting your "10,000 hours of mastery". The resources for learning art are also exceedingly sparse, of generally poor quality, and the tools are damn expensive. 3DS Max, Zbrush, and Photoshop seem to be the most commonly-used tools but each is hundreds for an annual license. CG art tutorials in my experience fall into one of several categories: Either they're decent tutorials but are paid content, or they use paid tools, or they assume you have a background in art, or they assume some base familiarity with the tool.
+
+What I'm wondering is what recourse do programmers have for creating art if not to just "suck it up and get gud" or hire/contract out? Are there "art-less" art tools available that I'm not aware of the same way that there are code-less code tools? Or barring that, are there good tutorials for art that I'm just not aware of, that don't cost hundreds of dollars, and that use freeware programs like Blender, SculptGL, GIMP, and Inkscape instead of 3DSMax, ZBrush, PS, and Illustrator?
+
+TL;DR: Why the heck is art so hard and why the heck do artists make it/keep it hard like some sort of guild protecting their precious secrets from the unworthy?
+
+---
+
+It's really just perspective. There are lots of people who try to learn programming and find it all incredibly overwhelming. The biggest difference isn't that art takes longer, it's that it's more obvious when it's completely jank.
+
+There are a ton of art resources out there these days. Far more open source or free programs. Blender existing at all makes it far more open than it once was. The art community is huge on Twitter and people are always posting videos of their process or streaming live. You can pretty much always go on Twitch and see how someone is making art in a way that's a lot more conducive to learning something than watching someone type code.
+
+It will take you many hours of practice to become a great programmer. It will take you many hours of practice to become a great artist. There isn't anything to do but just get to it and start practicing. If you've been thinking about logic and code for a decade and are just starting to learn art now then yes, it's going to take you a long time to catch up. That's why most people involved in game development don't get good at multiple things. They get good at one thing and work with other people.
+
+---
+
+The biggest difference isn't that art takes longer, it's that it's more obvious when it's completely jank. Juniors writing code and artists using code-less development both tend to pop out some shit-tier code. Artists getting by with jank code are on par with developers using block graphics: you can make it work, but it's not the best.
+
+---
+
+I've been drawing since I was a child and I've been programming since high school. The cold, hard truth is that learning art is much harder than learning programming. There are no "precious secrets" or easy shortcuts to drawing — you're looking at one of the most complex skills in existence.
+
+Either way, it seems like you have no art background but are looking to jump straight into 3D modeling. Don't do that! If you do want to learn art, you have to start with the basics first. Some of them can drastically improve the look of your game without requiring an excessive amount of time to learn (e.g. color theory).
+
+Players will notice if your art is poorly "generated" by a tool; the art and style are part of your game's identity. They likely won't notice if your game was made with visual programming.
+
+---
+
+I agree with you generally, but I'd argue that jumping straight into 3D might be the best move. A lot of the way people learn programming is by jumping in, and getting frustrated by a problem they can't solve. And then going back to learn that. I started doing 3D modeling basically from nothing. And it was frustrating. And I jumped back and learned about UV mapping, and textures. And then just basic drawing of people. And then color theory. But I wouldn't have understood the need for it if I hadn't dived in.
+
+---
+
+Are there any resources you could recommend? I'm really just trying to figure out a solid foundation for where to start. A lot of programming tutorials walk you from baby steps like Hello World all the way up to deploying your first simple brick-breaker game and I'm seeking a similar tutorial path for art.
+
+Everyone says "Oh you want to make a game? You'd better learn to program!" but really the hidden secret is that if you want to make a game you'd better learn art. Go look at "How to make a game" tutorials online and every single one is about how to program, with art and music hand-waved away like it's so simple.
+
+---
+
+Art doesn't have similar tools to help you like in programming, that is true, and 3D is just as challenging as starting something like oil painting. Basics are the same though, as far as things like gesture, structure and design go.
+
+Proko's channel may be helpful — he has whole courses there to give you direction. He also has talked about doing art education on your own in his Draftsmen podcasts on YouTube.
+
+But remember you don't have to be great at art to make great games. Just like you don't have to be a great programmer either.
+
+---
+
+Being a programmer who learned pixel art for this hobby: the key is first find something you can do artistically that is passable in whatever style helps being passable. Then do that until you get better over time. For me, what's passable is low-res pixel art with sprites usually around 16x16 or 16x32. And my skills in doing that have been increasing over time as I continue to make more sprites for my game.
+
+---
+
+I've been finding some low-poly tutorials for 3D that are quite low-level and generally very appreciative of them, but there doesn't seem to be any tutorial series that offers a clear pathway between "Make a low poly tree" to "Make a highly detailed character with procedural animations". Obviously that would take time and effort, but I'm willing to put that effort in to follow that pathway, if only the pathway existed.
+
+I don't mind emulating an N64/PS1 aesthetic, but I do feel that it's becoming overdone. 16-bit 2D platformers are ubiquitous, and "Low poly flat-shaded" is also becoming a bit of an artistic meme, making it hard for a title to stand out.
+
+---
+
+In terms of art, while it is easy to do art because most of the software is free or low cost (Blender, Aseprite, Substance Painter, Marmoset etc.) actually getting hired as an artist seems to be just as or almost as difficult as getting a job as a programmer. The software is available to everyone but that means the employer can be as picky as they want when hiring artists. Assuming you don't have prior professional experience or a related degree then your chance of getting an artist job at a game studio is close to zero.
+
+---
+
+I think other people have covered the "art and programming are too different to compare" angle, so I'm going to jump right to recommending things that might help.
+
+It sounds like you don't want to actually "master" art, you just want some quick graphics that aren't shit. And that's a worthy goal.
+
+Free art programs: Stay away from Photoshop. Programs like GIMP, Blender, Photopea — it really depends on what you're trying to do. Raster, vector, or 3D. All the programs have mostly the same toolset, you just have to pause the video when it says "select x tool" and then look up where the tool is in the program you use.
+
+Proko's free classes: This is college level art classes for free. The only thing here is yes, you do have to practice to get good at moving a pencil across paper.
+
+Color palette generators are worth using.
+
+Pinterest: USE A REFERENCE FOR EVERYTHING. Professional artists use references. Use Pinterest to search for the item, angle, pose, lighting, whatever you need.
+
+Apps like "Magic Poser" or anything that will let you pose a 3D rendered mannequin are useful for reference. If you can't find the pose you want on Pinterest, you can pose the model and manipulate the camera to get what you need.
+
+---
+
+For one, representing art under a single banner is a mistake. You can learn some basic programming very quickly, and have results on the table that appear fine. In reality it's likely your code isn't very good, and you'll have to spend many years becoming competent, but at least you can make things tick along the way.
+
+For most forms of art, you're not going to be happy with your creations for much longer. Learning resources can teach you how to use software, but you have to train your brain to make art. And that's going to take a long time.
+
+---
+
+Programming and art are learned in different ways. Art is something you learn through building muscle memory and establishing an understanding of line, shape, form, light, and shadow. Coding is purely conceptual.
+
+No shortcuts. Grab a pencil and some paper. Check out r/ArtFundamentals.
+
+---
+
+Artist here: I find programming incredibly difficult. CG software isn't that costly, and there are expensive softwares available for a low price in Personal Learning Editions or indie licenses.
+
+Art is relatively accessible. We don't gatekeep, and most people understand art to some extent without education. There are plenty of resources like CGMA, 80.lv, ArtStation, or ExpPoints. The issue is how much people disregard how to properly learn art. They want to rush things, or they assume you need a special innate talent. You need to learn some fundamentals: perspective, anatomy, color theory, rules of composition, photography, art history.
+
+The best way to learn is by trial and mistake. Art is quite simple — you are going to suck really hard at the beginning. Embrace it. Don't try to make something good for your first try. Make something. Give yourself a deadline, a short one. Finished? Cool. It sucks? Of course it does. Now onto the next one.
+
+The other best way to learn is to have great mentors. That's the only way to learn really faster. A mentor can point exactly what you are doing wrong, why, and how to fix it. Surround yourself with a couple of trusty friends with good art craft and good pedagogy, and you will advance faster than you think.
+
+---
+
+I'm a veteran programmer with a lot of experience working with artists. Both art and programming are hard. Really hard. Thousands of hours hard.
+
+There are lots of tools that make art easier and in general there are lots of areas of art that programmers can pick up quickly with an immediate advantage over traditional artists — things like building materials/shaders or building textures using software like Substance. Art is getting really technical these days. Knowing how to actually translate into a PBR pipeline takes a lot more than drawing.
+
+Meshes are hard — you're not going to be able to build good ones without working at it. But lots of artists got started on tutorials and taught themselves and you can too, just don't expect it to happen overnight. There are tons of super cheap or even free assets you can get. You can do a surprising amount with strong geometry skills and procedural generation.
+
+---
+
+Coding is a lucrative business. There's a ton of great info out there for a huge variety of reasons. Art, while having lots of rules, is extremely subjective. That makes it much harder to teach in a self-guided tutorial setting. You need active critiques and feedback from other people to make progress in any reasonable amount of time.
+
+Teaching yourself art is extremely slow and time-consuming, and you're at risk of teaching yourself bad habits which are very difficult to un-learn. Getting to a decent level of competency definitely doesn't take 10,000 hours if you have a good mentor.
+
+---
+
+I would recommend drawabox.com for a programmer looking to take up art. Approach it logically and put aside any notions that it is some innate creative gene that makes an artist. Learn the design rules and practice life studies. Learn color theory. Learn about composition. Learn about the golden section. Then buckle down and develop the manual dexterity and observation skills.
+
+---
+
+I think it feels that way because when looking at simple creations, the skill difference shows much more blatantly on the art side. If you are making a simple program for your first game, most of the things that would separate a beginner dev from an experienced dev are not visible. Code structure is irrelevant until you need to expand your code. Performance is irrelevant if the calculations are very light. On the art side however, even a simple drawing clearly shows the difference between a beginner and an experienced artist.
+
+Additionally, programming is about understanding, while art is more about experience — making stuff again and again. You can understand faster, but you can't really gain experience faster.
+
+---
+
+You only think programming is easy because you're a programmer. Your brain is wired that way. Many artists couldn't handle node-based anything let alone understanding the difference between a for and while loop. We are all wired differently.
+
+---
+
+I think it's just a matter of time when AI art generation will hit the spot where it becomes a dependable force in game development. Stuff like Artbreeder is just the beginning.
+
+---
+
+3D art is basically starting with basic shapes and attaching them together to make more complex shapes. You can also "chisel away" at these shapes — not unlike sculpting or carving. Try not to get too overwhelmed from the start, and see if you even have an intuitive aptitude with some "start from 0 knowledge" courses.
+
+---
+
+One thing programmers can do is leverage their programming ability to help improve their art — creating a heavily stylised renderer, or tools to help generate or apply some effect.
+
+AI tools are also available for all kinds of things: face generation, face morphing, animation from video footage without mocap, normal/depth map generation, 3D model generation, music generation, voice acting, and text generation. A lot of AI tools work great under curation and as a basis to make further manual edits.
+
+---
+
+Both art and programming boil down to "just do it." Art is actually simpler to start — you pick up a pencil and draw. For programming the hurdle of where to start is much more overwhelming. You have to battle with editors, operating systems, programming languages, frontend, backend. A 3-year-old can draw something from scratch. The only thing stopping you as a grown-up is the fear of failure. Just embrace the fact that you will be bad, and do it anyway.
+
+---
+
+I recommend trying some different tools. 3D modeling and vector graphics don't directly require drawing skills. Vector drawing is more akin to sculpting. 3D modeling is a lot like programming in that it requires a methodical deconstruction of your goal. The main thing is cultivating an artist's eye for proportion, color and composition. If you have that, the skills will come.
+
+---
+
+For 2D art I would recommend Clip Studio Paint over any free software like Krita or GIMP. The cheaper version has all the features you need for a one time payment, and it often goes on sale. Making raster art in any of these will be fundamentally the same as in Photoshop, so any Photoshop tutorial will translate with minimal overhead. If you're interested in 3D art, there's obviously Blender, which has a thriving tutorial scene on YouTube.
+
+---
+
+It's easier to get away with shitty beginner code than with beginner art. The path to become a good programmer that isn't a tutorial-and-stack-overflow mashup machine is equally long as becoming an artist, and likewise you'll never be "finished."
+
+---
+
+I disagree that art resources are sparse. There are tons and tons of free resources available to learn art. YouTube is your friend. You can find plenty of stuff teaching perspective, lighting, shading, and so on. You can also find tons of people showing off the progression going from a blank canvas to a fully finished piece, which is excellent learning material to see how an artist works and puts ideas together.
+
+The part where it feels different is that everyone knows when a drawing is decent or not. But thousands of mediocre-to-bad coding tutorials have flooded the internet, and bad code isn't front-facing so no one is comparing it against significantly better code. Taking the time to learn to write good, sustainable code which elegantly solves problems takes just as much time as learning to draw well.

@@ -1,0 +1,83 @@
+How art lays the foundations for indie games
+
+Five artists explain how their work influenced game worlds, stories and emotions.
+
+Drawings and paintings take on a whole new dimension when they're used to create a game world. Sometimes the atmosphere, emotion and mystery of just one piece of artwork is enough to inspire an entire game concept.
+
+---
+
+Eastward — Starting From a Single Sketch
+
+Japanese styled RPG Eastward was conceived when artist Hong Moran sketched a "weird monster dormitory building" that resembled the once infamous Kowloon Walled City of Hong Kong, an overpopulated, anarchic enclave that was demolished in 1994.
+
+"We got excited about the design and came up with a game that would fit around the aesthetic," says Hong. "Eastward unfolds within a cruel and unforgiving world, where every individual is forced to confront the pressing issue of survival. The storyline delves into the depths of our human existence, exploring the characters' hidden secrets and their burdened pasts."
+
+The highs and lows of the story take the characters into moments of joy, sorrow and shades in between, but instead of guiding players on an emotional journey, Hong prefers to let them find their own way. "I feel that rather than leading players, it's more about sharing the experience with them," he says.
+
+He focuses in particular on colour and fine details in his artwork as a way to help the player experience the characters' emotions. "We've put a lot of effort into the details because they make the story more believable and our characters' emotions more nuanced. This makes it easier for players to immerse themselves in the story."
+
+Hong's advice for artists working on games: "Think about how to complete levels quickly under limited conditions. Sometimes, managing efficiency and pursuing perfect design are equally important."
+
+The team took inspiration from Japanese anime like Cowboy Bebop, Porco Rosso and Akira, as well as 90s JRPGs like the EarthBound series and Dragon Quest.
+
+---
+
+Planet of Lana — One Image That Started Everything
+
+Planet of Lana, a platformer and puzzler combo created by Wishfully Studios, is another game underpinned by one piece of art that encapsulates the mood of the story and the relationship it's centred around.
+
+"The game originates from a single image I drew back in 2017 and that we still use as the main key art," says creative director Adam Stjärnljus. "I had an idea of this side-scrolling sci-fi puzzle adventure with a young girl and her creature companion, and drew an image to represent the idea."
+
+The artwork attracted collaborators and kick-started the game's production. "The reaction I got when showing the image to people pushed me forward and made me realise that the game could be something special," Adam recalls. "Over the course of the next year, I had a lot of extremely talented people join the project, and then in 2019 we collectively started Wishfully Studios."
+
+Adam was influenced by games from the 80s and 90s: classics such as Oddworld, Another World and Prince of Persia, as well as more recent cinematic platformers like Limbo and Inside, and the film Spirited Away.
+
+"The art style was heavily inspired by Studio Ghibli and I tried to find a unique expression in the contrasts of a painterly environment, with characters and creatures that have a simple flat-shaded look, combined with a black foreground that makes you feel as though you're looking into a theatre stage."
+
+"What Lana and Mui can do, separately and together, and how the planet and creatures react individually, is the key to the gameplay. It all needs to come together to deliver an emotional impact — the art, music, gameplay, sound design and story."
+
+---
+
+Ori and the Will of the Wisps — Deconstructing a Visual Style
+
+Working on a sequel presents an interesting challenge for game artists, in that they have to work with and develop an existing art style rather than crafting a new one.
+
+When creating the look for Moon Studios' Ori and the Will of the Wisps, art director and story lead Jeremy Gritton sought to stay true to the visual vocabulary of the game's predecessor, Ori and the Blind Forest, while leading the art team to find new ways to put their own spin on the follow-up.
+
+"This began by deconstructing the original game — really studying it to understand what they'd done, and why it worked," Jeremy explains. "Deconstruction is a very useful tool to go from appreciating something to understanding it. You might play a game and think, 'I like the way this looks', but breaking down all the components brings insight into the techniques that were used to elicit that feeling. If we were to follow in Blind Forest's footsteps, we had to understand what they did and why it worked, so that we could both emulate and evolve it."
+
+Jeremy's process for creating art for a level begins with making mind maps of ideas related to the core concept of the location, followed by a round of concept art to explore those ideas. "Defining a unique shape language is important, along with the chosen colour palette, because we want to create a memorable identity for each area."
+
+"Some of the most valuable tools are colour, shape and composition. We need to ask, 'What are we trying to convey? What should the player feel?' It's difficult to dial everything in perfectly on the first pass, so I'm usually searching for something in our team's work that grabs me, whether it's the shapes or the colours that capture the feeling we want. As long as the potential is there in the initial concept, we continue iterating to develop the rest around the core element that was working."
+
+"Story and art are a combination that's very closely connected for me, so we always look for opportunities to inject environmental storytelling into our spaces. Striving to tell a story with visuals can provide another layer of heart and depth to the artwork."
+
+---
+
+The Night is Grey — Building Atmosphere From Multiple Influences
+
+For games that are not part of an established IP and don't emanate from a single piece of artwork, the aura of the world is often built out of a collection of different influences.
+
+For psychological thriller The Night is Grey, creative director André Broa and his team found inspiration in sources from other eras to feed the game's dark atmosphere. "From the very beginning we liked the idea of The Night is Grey having the same vibe as children's illustrated fairy tale books, as well as classically animated cartoons," he says.
+
+"The style of Don Bluth influenced us a lot when we were children and we wanted to bring that mix of cartoonish yet moody and kind of scary, like the tales of The Brothers Grimm. Those were the main themes, but lots of other works influenced us, from John Carpenter's gore in The Thing to the painted background art style of Studio Ghibli."
+
+"We wanted to capture the feeling of exploring a vintage cartoon, while creating a good mystery with balanced puzzle-solving."
+
+---
+
+Wytchwood — Technical Limitations as a Creative Asset
+
+Exploring earlier aesthetics was also the route taken by Alientrap creative director Jesse McGibney as his team went out in search of inspiration for Wytchwood, a game about playing the witch character in fairy tales.
+
+"We looked to classic sources like medieval woodcut illustrations and the original fairy tales. We also looked at contemporary and familiar tellings of those stories, such as early Disney movies and character designs from Jim Henson's Muppets," Jesse says.
+
+"We did a lot of mood pieces, concept art and sketches while in pre-production, as well as developing our tool pipeline to figure out what would and wouldn't work. Some of these technical limitations actually ended up enhancing the art style, such as the fact that everything is drawn on 2D cutouts, making the game look more like a pop-up storybook."
+
+"Wytchwood's art is grim and gribbly, and we didn't try to shy away from the comically grotesque. We punched up the colours and cartoony characters, but kept lots of gross little details. We tried to mix a bit of the dark and spooky with the whimsical and goofy — like reading bedtime fables during a rainstorm; cosy, but a little scary."
+
+Hitting the right artistic notes for a game level is more of a process than a destination. "Like most kinds of art, there's no real point of completion, only a point at which you have to put it down and stop fussing with it," Jesse adds.
+
+"For game art especially, we're constantly creating or improving our tools, which can mean we have to go back and redo previous sections of the game. Sometimes a level will start with a piece of concept art that we're aiming to hit, or it might just be iterating on an idea until it feels right."
+
+"For me, the most important thing I can do if something isn't hitting right is to take a step away and come back to it later with fresh eyes. A lot of times, the things I have problems with will become more clear or will reveal themselves to not really be problems at all. But a lot of times you just have to call something done. Pretty much everything could be done better, but not if we ever want it finished."

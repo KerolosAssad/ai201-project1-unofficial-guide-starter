@@ -1,0 +1,127 @@
+Solo dev struggling with art/visuals - how did you tackle this?
+
+I'm a solo developer and I've hit the point where I can build the mechanics and systems I want, but my games look… let's just say "programmer art" is being generous. I know visuals matter, especially for that crucial first impression, and I'm trying to figure out the best path forward.
+
+I have zero background in art. I can use Photoshop and some 3D software, but just as tools - and even then, my knowledge of those is pretty limited. I don't have that "arty mind" where I can envision what looks good or how to create a cohesive visual style.
+
+For those of you who've been in similar shoes, I'm curious:
+
+If you learned it yourself: What resources actually helped? Did you focus on a specific style (pixel art, low poly, etc.) that was more approachable for someone without an art background? Any courses, YouTube channels, or books that clicked for you?
+
+If you collaborated/partnered: How did you scope the work with your artist? What kind of creative freedom did you give them versus providing specific direction? And at what point in your development process did you bring an artist on board - early concept phase, after you had a working prototype, or somewhere else?
+
+I'm not trying to make AAA-quality visuals, just something coherent and appealing enough that players will give the game a chance.
+
+---
+
+Same situation here... just "grind it til you make it" or hire an artist.
+
+I don't know how to grind in art. I know how to do it with programming and mechanical/logical stuff.
+
+---
+
+I made the transition into solo development about 10 years ago. I'd had very little experience with modelling but Blender had started to get really good. One thing that has stuck out with art in my games is each time I'm working on a project, I'll try to challenge myself to learn new methods and improve my workflow.
+
+Here's how that looked:
+
+Before going independent I was making maps for various source engine games. This helped me understand the basics of space and working with 3D.
+
+For my first game, Jalopy, I went with a stylized approach akin to Killer-7. Integration was fast as fidelity was so low. A lot of flat colour shading and very little texture work.
+
+Then with Landlord's Super I wanted to improve my texturing so I focused on that. I also worked hard to improve my character work and animations.
+
+With my current game, Honcho, I'm trying really hard to elevate my work with higher resolution texturing and shader work. This has proven to be quite the time sink though!
+
+Basically, just be patient with yourself. Don't be overly harsh on your work and keep plugging away.
+
+Keep in mind that we also have a generation of gamers entering Steam that have grown up on Roblox, so I don't expect visual coherence to be valued as highly.
+
+You can always just use asset packs, or even ASCII art if you find this is still a weakness. Better to play to your strengths — both approaches have many popular games that use this method.
+
+---
+
+I've started to introduce asset packs into my work as I found it was becoming unviable to spend so long on projects, but the majority of stuff is still my own work. My partner now also helps with the 2D assets like logos, illustrations and icons, which is a big help.
+
+I really do think coherence and making a game beautiful are not especially important. Even a lot of simulation games look like a "pig in lipstick" and most players don't actually mind so long as the gameplay is novel and interesting.
+
+---
+
+I am not too confident in my art skill, so I avoid doing the hard styles — smooth 3D character animation, realistic model, realistic texture. It is hard to find high quality assets that match each other if you want to go high fidelity and you cannot afford to make all those highly detailed things by yourself. If you choose the hard style, the more time you spend, the worse it looks. On the contrary, if you choose a simpler style like low poly, pixel art, or hand drawn, you spend much less time and people will find it cute or funny.
+
+When you try to be realistic, our brains will focus on finding out what's wrong. If you go lower resolution, our brains will try to use imagination to fill the gap.
+
+Compared to the complexity and quality of each single asset, being consistent and harmonic across the entire scene is more important, otherwise it will look amateurish or like an asset flip.
+
+---
+
+You'll probably have to find someone to help you. Once you're confident with what you've made mechanically and narratively and have a strong vision, bring someone onboard. Have plenty of references to give an artist so they aren't stabbing in the dark.
+
+You probably have games that you like the look of within the genre — those are your references. Select something within your references that closest suits your setting and mood. Provide that reference to artists on something like gamedevclassifieds and ask for them to leave a portfolio link if they feel they can execute something akin to your reference.
+
+Don't hire someone full time if you don't want to. Set a smaller scope of work (two buildings, one character) and scale up from there if you hit it off with the artist.
+
+---
+
+Would you consider using ready-made assets, or would you rather make them yourself?
+
+If it's the latter, I'd suggest pixel art, low-poly, or voxel styles. These styles are very forgiving when it comes to visual quality. Try using striking high contrast (bright objects on very dark background), colorful assets, or maybe add bloom/glow effects.
+
+Using ready-made assets is ok, but the end result can seem incoherent. Even using a single asset pack is hard to put together properly to get a coherent, appealing result.
+
+---
+
+I had some compelling gameplay ideas, but most people aren't going to touch a game that looks like programmer art. So I asked myself: what if I just tried as hard as I could to make something look good with shaders, because I can't draw?
+
+The result was a project I called SubRogue. It's a glowy shader stacked on top of a wireframe shader, a camera with a really tight clip distance, and a bunch of slow pans in an animation player with some moody music.
+
+I took a similar approach with my current project, The Matter of Being. I spent some time cultivating one or two really evocative visual effects, and then just built the entire game around them. I can't draw to save my life, but I got way further than I ever thought I would. A key part was setting aside a full month for each project just seeing what visual impact I could make with the skills I had.
+
+I also just stole. A lot. I started looking really closely at how other games did their UI and copied it. My whole "swirly ink shader" thing was directly stolen from a piece of fan art (who I later contacted to enlist as my actual artist). And then I found that I wound up tweaking and adding my own spice more than I expected so it was fine.
+
+I have 0 background in visual art of any kind. There's about 1.5 years between my terrible early hex prototype and The Matter of Being. The jump from the first project to SubRogue was probably bigger than the jump from SubRogue to TMOB. TMOB has a functioning game behind it and I'm actually trying to shop it to publishers now. The core systems are all in place after about 7 months of work including the time spent just mucking around picking a visual style.
+
+---
+
+I just practiced and picked an art style I could create with my limitations.
+
+You pick something you like and want to make. Anyone can make anything with pretty few exceptions — it's just a matter of practice and trying not to get demoralized over how garbage your stuff is at first.
+
+I find styles I enjoy and research how they are made. For my game I mainly make the models myself in Blender and use Creative Commons PBR textures I edit in PhotoGIMP.
+
+---
+
+Get Aseprite for pixel art. When it's not perfect it can be very charming — even if you don't get it exactly right, it can still look good enough and have personality.
+
+---
+
+After having no success by myself or with potential partners, I decided to try freelancers. It took me a while to find someone who gets what I envision for my game. He builds the tilesets and assets with the reference I provide and then I build the maps using them. It works great. I cut my life's expenses to a strict minimum to be able to finance the parts that I can't do myself.
+
+---
+
+Iterate quickly. The more times you refine what you have, the faster you're going to make the art style align with what you're looking for. For my game it took around 3 or 4 large iterations to get the art style to a point where I'm confident with its look. A lot of that involved coming back to it a week later to redo things I wasn't pleased with. It's really helpful to re-iterate over art after a break — fresh eyes make for a keener, cleaner result.
+
+---
+
+I'm working on a visual novel so art is a huge part of the game's appeal. I hired an artist I know in person who is my friend. I put together a request for proposal document with the exact or ballpark number of required art assets, a clause for additional items with a breakdown of rates, a game brief, character descriptions and image references, and art style and coloring references. We had a meeting after to negotiate, further explain, and finally signed a contract. The timeline in reality was not as ambitious as we originally planned but it's moving along.
+
+---
+
+Build a collection of base assets (rocks, grass, trees, landscapes, billboards, etc.) that you can use interchangeably in your games. With some simple texture coloring in Photoshop or GIMP you'll quickly learn how to create variation — rocks with a stone texture vs a grass texture, etc.
+
+Look at free materials and PBR textures online. This will go a long way.
+
+Start building games that don't require lots of rigging, models, and movement. You can start with card games, games with ships, balls, a cup of water, a plant. You don't need to build 3D models of rigged humans with multiple animations.
+
+---
+
+There are a ton of open source, free, and Creative Commons options out there. Aviary Attorney is entirely public domain art.
+
+Check out: kenney.nl, itch.io/game-assets/free, opengameart.org
+
+---
+
+Partnering with an artist can turn your good app into a great one. People look at the cover before reading the book so having something look pretty will help. If budget is an issue, find an arrangement that works for both parties.
+
+---
+
+YouTube tutorials and constant practice. The only way out is through.

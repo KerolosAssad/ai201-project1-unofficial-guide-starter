@@ -1,0 +1,181 @@
+Awesome Learn Gamedev — Art and Technical Art Resources
+
+This list is aimed at learning the craft of game development. Nearly all resources are free, and anything with a price tag will be clearly marked. Paid resources are only included if they have been personally endorsed by an industry professional working in the relevant discipline.
+
+Disclaimer: Most resources are geared towards tech and art.
+
+---
+
+General
+
+"The Door Problem" - A one-sentence summary of most major roles in a large studio, and a bigger explanation of a game designer's job.
+
+GameDev Contacts - A huge list of professional game developers you can contact for advice. Be courteous — these are real people.
+
+FOSS GameDev - A list of Free and Open Source Software for every aspect of gamedev.
+
+---
+
+Programming (Engine and Tools Relevant to Artists)
+
+How Game Engines Work - A blog and video explaining the game engine, or a tool/framework used to create games.
+
+Complete Godot 4 Game Developer by GameDev.tv - A fantastic way to learn Godot, a free and open source game engine. GameDev.tv are an invaluable resource for learning game engines and tools. They are more than worth the $15.
+
+Unreal Engine 5 C++ Developer by GameDev.tv - Same as above, but with Unreal 5, a popular and powerful game engine. Wait for it to go on sale.
+
+Complete Unity Game Developer by GameDev.tv - Unity has been a long-standing champion in the industry, particularly in the mobile/AR/VR space.
+
+Tool Dev - An introduction to tool development and editor scripting in Unity by Freya Holmér.
+
+Math for Game Devs - A primer on math geared towards game development by Freya Holmér.
+
+---
+
+Technical Art
+
+Tech Art Learning Resources - A list of tech art resources, communities, and professionals, curated by Heart Machine (the studio that made Hyper Light Drifter and now Hyper Light Breaker).
+
+Tech Artists - A community of tech artists.
+
+Making Crash Bandicoot - A blog post series from a developer of Crash Bandicoot discussing its rendering tech and the hardware limitations of the PS1.
+
+Proc Gen / HyperDec - An extended breakdown of the procedural art tools of Hyper Light Breaker.
+
+---
+
+Shaders
+
+Shaders for Game Devs - An introduction to HLSL Shaders using Unity by Freya Holmér. Best for beginners.
+
+The Book of Shaders - A book on GLSL pixel shaders. Highly recommended.
+
+Catlike Coding - Unity and HLSL Shader Tutorials.
+
+Shadertoy - An online shader editor and hosting/sharing site.
+
+Render Doc - A program that breaks down a frame rendered from a game and allows you to analyze the processes that created it.
+
+Intro to Shader Graph - A detailed introduction to shader graph in Unity.
+
+Shaderquest - A guide series from a blog about tech art.
+
+---
+
+VFX
+
+Getting Started in Real Time VFX - Also check out the rest of realtimevfx.com to find a thriving community filled with useful knowledge.
+
+VFX Talks Playlist - A playlist of VFX talks at GDC. The linked video is about Diablo and is very insightful.
+
+BiteyCastle Academy 2DFX Animation Course - A full 2D FX animation course, completely free.
+
+Houdini Isnt Scary - Part 1: Basics - A playlist of a Houdini tutorial series.
+
+---
+
+Art
+
+Art Industry Resources - A megalist of art resources.
+
+Saint11: Tutorials and Articles - Fantastic pixel art animation tutorials and articles on pixel art. Most content is free.
+
+Pixel Art Class - A tutorial series covering the basics of art aimed at pixel artists.
+
+Genevieve Routhier - A blog on art direction and leadership from a senior art director.
+
+The Gnomon Workshop - Extremely professional art, animation, and VFX courses. Aimed at film with large overlap in games. Beware of hefty price tag.
+
+Smithsonian Open Access - A massive repository of 3D and 2D digital resources from the Smithsonian Institute archives, such as photos and 3D scans of historical objects. Perfect for reference and creative commons reuse.
+
+Ultimate Commission Guide for Artists - If you want to open yourself up for commission work, this is a godsend.
+
+A whole lot of time-saving tools - Includes Pureref, a reference tool.
+
+---
+
+2D / Illustration
+
+How To Draw - A webcomic on how to draw, and more importantly, how to learn to draw. Best for beginners.
+
+Radiorunner's Curriculum for the Solo Artist - A curriculum for self-teaching art. If you want to really hone your skills, this will undoubtedly be worth your time.
+
+DrawABox - An exhaustive course for the art fundamentals, completely free. Best for beginners.
+
+LoSpec - A pixel art gold mine with job board, palette database, tutorials, and resources.
+
+Proko Figure Drawing Fundamentals - An exhaustive series on drawing people from a reputable channel.
+
+How to Learn Digital Painting (Beginners) - A guide to digital painting for beginners and intermediate painters.
+
+Drawing the Head and Hands - A book on figure construction by Andrew Loomis. Free in the public domain.
+
+Figure Drawing for All its Worth - A book on figure drawing by Andrew Loomis. Free in the public domain.
+
+Digital Inking Tips - A good guide to sharpening your technical skills.
+
+Lines and Edges - A style guide for using edges and lines effectively.
+
+---
+
+3D
+
+World Building in Blender by Ian Hubert - Possibly the best resource for thinking about 3D art, ever. Best for beginners.
+
+Sculpting in Blender - A short, free course on sculpting in Blender.
+
+Photorealism Explained - An explanation of photorealism and how it is achieved in CG.
+
+Realtime Hair Tutorial - A course delving into a hair pipeline for characters.
+
+Royalty-Free Textures, Models, HDRIs, and Assets - Free resources for 3D artists.
+
+---
+
+Animation
+
+The Animator's Survival Kit - An essential resource for any animator. Has a price tag, but if you want to get a job in industry, it is well worth the money.
+
+The 12 Principles of Animation - A visual tutorial series on a fundamental part of animation. Best for beginners.
+
+---
+
+Resources for Non-Artists
+
+Open Game Art - Royalty free game art.
+
+Game Icons - Free game icons.
+
+Low-Poly Models - Free low-poly 3D models.
+
+100% free assets - A post and thread with lots of free art assets and tools.
+
+---
+
+Marketing and Business (Relevant to Indie Artists)
+
+Leveling the Playing Field - A blog and newsletter by Rami Ismail with advice on business, marketing, skill development, and various topics needed to run an indie studio. Recommended starting point: "Budget Viability."
+
+How to Market a Game - A blog and collection of resources by Chris Zukowski with advice on marketing and sales. Recommended starting points: "Empathizing with Steam: How People Shop for Your Game" and "What to Write So People Buy: Selling Your Game Without Feeling Sleazy."
+
+Community Dev Newsletter and Blog - A blog and newsletter by Victoria Tran with advice on community management, social media, and marketing. Recommended starting points: "Failure Marketing" and "Charm your Communities."
+
+---
+
+Job Hunting and Career (Art-Focused)
+
+Video Game Job Hunt - A huge list of job-hunting resources, from building a portfolio and resume to searching for and applying to jobs and salary negotiation.
+
+Guide to Game Art Applications - A guide to game art portfolios and job hunting.
+
+Industry Portfolios - A big list of portfolios from industry professionals.
+
+---
+
+Other
+
+A series of game jam post-mortems - More valuable than they let on, because they show you the whole game-making process, start to finish. This will help you avoid common pitfalls and know how to follow that process for your own game. Watch a couple before entering your first jam or starting your first project.
+
+Game Developer (previously known as Gamasutra) - A site filled with post-mortems, gamedev news, blog posts, and other articles with a focus on game developers and their communities.
+
+Where the Water Tastes Like Wine Postmortem - A must-read for aspiring independent game developers. Making money from the art is hard, even for industry veterans, but there are other things that are valuable.

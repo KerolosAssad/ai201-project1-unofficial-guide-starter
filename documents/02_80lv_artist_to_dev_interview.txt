@@ -1,0 +1,153 @@
+The Journey From an Artist to a Game Developer
+
+Max Bezugly discussed the difficulties and the delights of shifting from being a game artist to being a full-time game developer.
+
+---
+
+Introduction
+
+80.lv: Max, could you introduce yourself to our audience? Where do you come from, what do you do, what projects have you worked on?
+
+I have 20 years' experience in IT doing both software development and management. But, first of all, I am an architect of complex software. Game development is a personal passion for me and the main market direction for my company now. We have been developing software for the automation of management processes in game development for several years. Thanks to this automation project, I had the opportunity to communicate with game studios in Japan, Korea, Singapore, Sweden, Finland, France.
+
+I helped to make a small game to my friend from Japan who is a former Square Enix developer. It turned out that it was the first game where my name was in the credits.
+
+I invested free money in the development of my first game – M3Cyber, a competitive match3 with complex mechanics and combat. We had great playtest results at the demo stage. The main surprise was that the girls began to play the game, not the semi-professional e-sports athletes that we had hoped for. The game requires both "chess" thinking and strong intuition. As a result, the girls confidently won against the champion of Starcraft, chess players, and poker players. Amazon noted us for seeing a girl as a player, not as a paying housewife.
+
+Managing complexity is my forte, but in match3 I wanted to avoid it. It turned out though that I can not live without complexity, and next time I will immediately design 4X to be relevant to the product.
+
+I had experience working with the theater in Ukraine and Europe, it greatly influenced my vision of game dev. "Hollywood" for me is the large companies with streamlined processes and a product which is expensive, but not deep, where the scale and number of tickets sold are in priority. "Theater" is the best indie developers, for whom feedback from the chosen audience and timeless greatness of the result are more important than sales.
+
+---
+
+From an Artist to a Game Developer
+
+80.lv: From an artist to a game developer – it seems quite an obvious step and a lot of artists actually follow this way. But is it, really?
+
+Indie is a freedom and it has a price. You choose if you want freedom or not. This is neither good nor bad, different people have different values. And if the opening of a coffee shop can be the achievement of financial freedom, then being a free artist means the achievement of creative and spiritual freedom. In the end, this is entrepreneurship. And its value is subjective. It can be bad for the family, it can be bad in the short term. But it can be very good in the long term.
+
+It may seem an obvious step, but I want to point out that this is a huge shift in mindset and no one is ready for it. It's the transition from "to receive tasks" to "to set the tasks". To face your vision not with the art director, but with the whole world and as a result of this collision to form a market for your product. Surviving it is a difficult but good step.
+
+I agree, a lot of artists went this way, so we have new unique games. But the percentage of all artists who did it is very low. One of the reasons lays in the fact that it's obvious for many how to start making a game, but it's not obvious how to finish. And, most important, how to make more money in this way compared to our salary for the same period.
+
+Therefore, to do everything right is good. But how the artist can find out which actions are correct and which ones are not? This is the main question.
+
+I believe that 3D artists will form the new generation of the indie developers just like the last one was formed by programmers. They dealt with the resolution of the entire screen 320x240, everyone can be an artist in those conditions. But now the story and the live game world are important, not mechanics and abstractions. This is the perfect moment for artists to take over the initiative.
+
+My recommendation is to pay attention to the change in technology, periods when every artist should seriously re-learn in order to remain at the forefront of the industry. The past generation of texturing before the PBR era now lives on mobile phones, the generation that was even before it now lives in the form of thousands of pixel products on Steam. The generation of raytracing will come soon and well-established light optimization processes will remain relevant for mobile phones.
+
+At the peak of the development of technology, choosing indie is risky. But at the time of technology change, the choice is simpler – both ways are risky. Re-learning is stress and rolls back the level of experience. Becoming indie is re-learning and stress. But with retraining to a new technology at the old place of work, this is spiral movement, and going to indie is a transition to a new level. And the transition price is minimal at the time of technology change.
+
+---
+
+Vital Skills
+
+80.lv: What technical skills should you acquire to make a game? Most modern artists are already very skilled at Unity and UE4, so they understand the game development well, however they are still more centered on the looks, and less on mechanics, feel, animation. Could you summarize all the important skills you need to have to start the development?
+
+The most important skills are understanding what product to make, how to reach its audience and how to complete the development. All of them are at the level of strategy. They determine success. Art may be weak and sales high, and conversely, in any combination.
+
+The larger the company is, the narrower the expertise of the specialists is. For anyone who makes perfect characters in AAA, indie production will be harder than for an artist working in a small studio, who was responsible for all 3D and related content – characters, environments, props, animation. The ability to do everything at the minimum acceptable level will be better for indie, than the ability to make the perfect thing. Everyone understands this intuitively and it is another important reason not to become indie when you know that in your product at work you made 2-5% of content and it took a year or more. Then how to make a whole product alone? It is necessary to change the approach, the vision of both the product and your role in it.
+
+The first problem is how to make the product plan realistic. The goal must be achievable and you need to look for analogs of goals and methods of implementation when you don't work in a large team but in successful small studios.
+
+Having experience is good if it can be converted to a new one, not applied directly. Beginners without experience end up creating games more often than professionals, who are hampered by their knowledge base. Transforming one's values, approaches, processes is the most difficult task for human nature.
+
+Concentration on appearance is fine, but you need to take into account the paradox of the value of art quality – often the best-selling games on Steam will not be the best in art, and the best in art will have low sales.
+
+It leads us to the main conflict of goals in indie – to realize what you want or to apply your style to what can be successful. In Japan, indie and bedroom game developers are clearly separated. Indie make the game for the market and take into account the realities, the others – make games only for themselves, but do what they want and how they want it.
+
+True masterpieces are born in the second category, but the connection of greatness with commercial success in real life has not greatly improved since the Van Gogh era.
+
+The spirit of the time and the general trend is the Story. In the beginning, the most important thing was mechanics, then it was graphics, today it is a story. But nowadays the product recipe can include them in any proportions to be successful.
+
+The most important skill is product management. Mistakes at the strategic level make the production ineffective even if it is performed at the highest possible level. Skill can be pumped through the study of game design, the structure of existing products, classical marketing in terms of analyzing niches and managing priorities of features.
+
+The main thing for an indie to survive is the ability to simplify, to reduce the complexity of game design and development. Journey and Banner Saga are successful examples of making the game ingeniously simple.
+
+The main thing that leads to success is to be able to make accents and create a hook which will be the reason for players to anticipate the game. The best example of a hook today is "Would you like to kill your neighbor?" from the game Hello, Neighbor. With the right hook, you want the game even without knowing its genre.
+
+The skill of finding the audience for the product and communicating with it is a confirmation of the viability of the product idea. For example, in Crypt of the NecroDancer, the game authors themselves say that they analyzed the market and suggested that there is an intersection between two unrelated rhythm and dungeon crawler niches. In the result of the creative intersection of dances with pixel monsters the game has high sales, lots of reviews on Steam, many awards, the press is delighted. The individual components themselves are common, the success is determined by the recipe and proportions.
+
+A more "serious" example is French studio Amplitude. They created 4X game Endless Space, which quickly went to more than 1 million copies sold. From the art point of view, it's an advanced browser game. But space 4X genre demand was higher than supply. They built communication. Players voted for ships art and functional solutions. The community itself has designed one playable class in the game from mechanics to ships.
+
+The main thing in finishing the development and maintaining motivation is confidence in your product and a sense of realism of the task. The only way to get confidence is to make demos and playtests. Being an indie studio, at the stage of the idea, it's hard to feel the task manageable. A good plan is to invest 100 evenings to create a demo. Measure your performance. Make a complete product plan after playtests which will greatly change the vision of the product.
+
+---
+
+Perfection vs. Effectiveness
+
+80.lv: How do you kill your inner perfectionist? Artists like to do everything on a super high level, especially if they've been working on AAA games, but this doesn't work for indie production, especially when you take the time factor into consideration. Could you advise on how to make the game faster and avoid wasting too much time on unnecessary parts?
+
+Never do it. You need to stay a perfectionist. But carefully choose what you are going to apply this approach to. You can simplify and distribute the quality of implementation according to the level of importance.
+
+In the example of Journey, the characters and the world are simple but perfect. The creators have removed all unnecessary details, reduced the amount of work to the minimum and the quality to the maximum.
+
+Of course, in the specified quality framework, all AAA artists are doing everything as required. But they can do much more than required. AAA is a trade-off, always in favor of business criteria.
+
+Modularity. This approach is relevant to mature companies of any size. At Bethesda, this approach is used in the level design. Blizzard used a modular approach in Overwatch to animate characters, which made it possible to perform a huge amount of work with a relatively small team. Any tile-based pixel game is modular. Modularity doubles the speed of the development.
+
+The pinnacle of the development acceleration is procedural generation that can be applied to anything from simple terrain heightmaps to sophisticated natural or urban environments. This approach is rarely used by indie but it can give the maximum results.
+
+---
+
+Ready Assets: Pros and Cons
+
+80.lv: How do you feel about buying assets? Is it a good strategy to save some time?
+
+I am personally on the side of using software libraries and tools. Ready assets are conceptually similar but not in general. Raw materials, shaders, and effects are good in any case. It's ok to use ready-made trees, but if you want to have a stylized game with a unique look you can't use even ready trees. I bought about 20 assets for Unity and the same number for Unreal which is a relatively small amount. For example, the sky for Unreal is the result of more than a month of professional work with very high asset flexibility. Using them I can create unique results — such things are so good and useful that I want them to be part of the game engine.
+
+Buying 3D models can be justified in some cases. For example, if I were to make a game about the New York Mafia in the 1920s, I would buy any ready-made objects for the environment: a car, a machine, a gramophone and so on. I would need a unique scene but it wouldn't apply to every chair in it.
+
+To save time I would recommend not to buy assets but to discard unnecessary content and to simplify the rest. Sometimes you can get a license instead of buying something. One developer acquired the rights to the 3D models and the game name King's Bounty and in the result made a successful turn-based game for the browser and tablets. Epic Games gave away the rights to Paragon assets just for free, while their creation cost them millions.
+
+Added value is a key. Assets themselves do not play a key role. For example, a 3D model of Gordon Freeman costs relatively nothing but the history experienced with him added huge value to the asset. Pines in Skyrim could have been purchased as assets because it is not the uniqueness of the trees that give them value and meaning, but the particular forests in the game.
+
+A game, like a movie, does not always need unique decorations. Avatar and Star Wars are surely incredible. But most other films use ready-made locations, objects, clothes, and so on. Only new roles and new stories are crucial.
+
+---
+
+The Importance of the Color Palette
+
+80.lv: A big part of any artistic game is the art style and the look of the level, but you concentrate on a very particular topic: the color palette as the factor that influences the sales. Is there really a certain color combination that helps you sell millions of copies or is it a bit more complicated?
+
+In an interview, Miyamoto said that after the poor sales of cartoony Zelda: Wind Waker in the West they made Twilight Princess with a dull palette and more mature main character which brought the expected success. But this short-term solution was not in harmony with the values of Nintendo and their next game Skyward Sword combined both approaches. As a result, it has a unique bright art style and good sales.
+
+In the West, a temporary solution to the problems with promoting console titles turned into a long-term cargo cult of "real is brown", which allegedly brings income similar to the father of this trend Gears of War. But when everyone starts doing the same thing, the effect becomes the cause. Fortunately, this period is over and the palette of the new games again unfolds the full potential of the monitor.
+
+The importance of color for the audience and a clear understanding of it by the developer are perfectly shown by the art controversy of Diablo 3. The petition was signed by tens of thousands of players who disagreed with the fun colors of the once solid and gloomy game. Blizzard lost these true fans, but in the end, the sales of the game for a new generation of gamers were so phenomenal that the game became the first PC game to enter the top 10 best-selling games in the world.
+
+There is no such palette that will drive sales. The palettes either match the markets (country, setting/genre, the age of players) or not. No general rule, only contexts.
+
+Applying color palettes is the only way to make photorealism unique. Non-photorealism gives a lot of room for a unique presentation and this is the native field for indie where the color and light are just some of the basic tools.
+
+On the one hand, the influence of the color and art style on sales is confirmed by several cases. On the other hand, on the market, this is the subject of the most widespread misconceptions. There is scientific research that refutes the stereotype that photorealistic games bring more sales. They are easier to make, but the conviction that stylized games are for children and their commercial potential is lower were not confirmed. PUBG is a super successful photorealistic shooter on the market. At the same time, stylized non-realistic Fortnite overtakes it greatly in the number of sales and players.
+
+---
+
+Recommendations for Indiedev Beginners
+
+80.lv: Finally, what recommendations would you give to the artists who want to try their hand in indie game development?
+
+Every indie artist at some point will have to work with a programmer and in order to collaborate effectively, you need to have a minimum understanding of their work. The same knowledge will help to implement simple game logic independently.
+
+For Unity, I recommend the course RPG Core Combat Creator. For Unreal – Unreal Engine 4: How to Develop Your First Two Games.
+
+The universal plan is to study game design in your free time, at the same time learning how to analyze the market (SteamSpy), taking into account the project management seriously. It will give an understanding of what to do, how to do it and your perspectives.
+
+As for the asset packs, it depends on the chosen genre and the settings, but in the engines marketplaces there is a rating of the best-selling assets, and some of them may be useful for almost every project.
+
+Indie Game: The Movie documentary is a very inspiring and true story about several famous indie games.
+
+"Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture" is an inspiring book about passion for creating games.
+
+80.lv: What should the artists expect in general?
+
+A lot of work. Independence has a price. Previously, you judged the tasks assigned and the management itself. Now your ideas and results will be judged by other people. You can not prepare yourself for that.
+
+In Indie, the basic laws of entrepreneurship work the same way. Do as many times as needed until succeeding. The vital thing is not quitting but you also need to know when to give up the ideas that have lost their perspective.
+
+80.lv: What are the chances of becoming successful?
+
+Same as to meet a dinosaur on the street: 50%. You can either meet or not meet it.
+
+Max Bezugly, Game Developer

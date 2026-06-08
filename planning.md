@@ -44,15 +44,15 @@ This guide covers indie game artists transitioning from digital art into game de
 
 **Chunk size:**
 
-1000 characters
+300 characters
 
 **Overlap:**
 
-200 characters overlap
+20 characters
 
 **Reasoning:**
 
-My documents are long-form interviews, blog posts, and Reddit discussions where ideas are expressed across multiple sentences. A 1000-character chunk provides enough room to capture a complete thought or argument without cutting off mid-idea. The 200-character overlap ensures that context carries over at chunk boundaries, important for interview-style documents where a question and its answer may span adjacent chunks.
+Initially set to 1000 characters with 200-character overlap, based on the assumption that long-form interviews and blog posts needed large chunks to capture complete thoughts. Testing revealed the opposite; where large chunks diluted the embedding signal by mixing multiple topics, causing retrieval to return loosely related content. The domain's knowledge is conversational and spread across short statements distributed across many documents rather than concentrated in long passages. Reducing to 300 characters with paragraph-aware grouping produced tighter, more focused chunks that respect paragraph boundaries, avoid mid-sentence cuts, and embed more accurately. A 20-character overlap ensures context carries over at chunk boundaries. Top-k was set to 6 to ensure enough relevant context reaches the LLM despite the smaller individual chunk size.
 
 ---
 
@@ -70,7 +70,7 @@ all-MiniLM-L6-v2 via sentence-transformers
 
 **Top-k:**
 
-5 
+6
 
 **Production tradeoff reflection:**
 

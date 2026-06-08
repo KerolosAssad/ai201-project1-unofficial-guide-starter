@@ -1,0 +1,73 @@
+A f*cking long Journal from a UX designer who became an Indie game dev & artist in 2023
+
+I quit my job and, a year later, I finally allowed myself to start day 1. Here is a year-long journal beginning in 2022. I decided to quit a well-paid job and become a full-time dream chaser. I want to share this long story for those out there who may feel alone.
+
+---
+
+2. Starting Somewhere
+
+To begin, I think about the asset I want to build. Since it falls in the creative category, I start by learning art.
+
+My mission is simple: to create a creative experience that touches people's hearts. Art and story could be essential components in achieving that.
+
+I used to draw for fun since elementary school. I decided to invest in my skills by purchasing an online art class. My goal is to become a well-known artist whose art books and assets for games people will buy.
+
+I also believe that comics can have a great impact on people's hearts. So I'm learning storytelling and the elements of comics as well.
+
+However, I eventually realized that I may have to spend years to make my art better, which is the same for any path I could take. My brain kept thinking about different ways I could make people feel or do things to experience it better. My UX brain kept ideating: what if they could interact with the story?
+
+I want it to be immersive, interactive, quirky, smart — an experience that connects to the way individuals process the world.
+
+I want to build a game.
+
+I started with my past skills, then let myself learn more about art to complete the picture. I don't know how to code a single line, but it sounds so much fun and I could be super creative about how it would experience people.
+
+---
+
+3. I Create Pixel Art and Manage Social Media
+
+As the coding part of game development can be overwhelming, I started by choosing an art style that could help me build fast visual elements while still being appealing and great for storytelling. I picked pixel art because it's cute and I grew up with pixel games.
+
+As I studied more, I found that pixel art is very logical. Pixel art has certain rules to make the art appealing, which I found easy to follow. For example, pixel art can be jagged if a pixel is misplaced.
+
+As I drew more and more, I grew to love pixel art even more.
+
+Ultimately, I want to keep making games and sell them. But first, I need to make sure there are people interested in my work before I launch.
+
+I tried many platforms — Facebook, Twitter, Instagram, Tumblr, Reddit, DeviantArt — and I learned one thing: start with 2 social media platforms at most.
+
+Each social media platform has its own ways to reach people. Starting with a few makes it less complicated. I want to spend time interacting with other people and creating quality content instead of spending all day on feeds.
+
+I use Twitter to connect with other pixel artists. The Twitter community is encouraging for pixel art, and that means a lot for someone who just started. When I realized people search hashtags like #pixelart, I focused on making better art instead of worrying about follower counts.
+
+---
+
+4. I Was in the Process of Choosing a Game Engine, but Ended Up Studying Computer Science Instead
+
+Starting from scratch is hard. I cried a lot, and at one point, I almost gave up and went back to my boring job.
+
+I started with picking a game engine because I heard: "Build your own game with NO CODE."
+
+I spent too much time picking an engine, only to find out that a no-code engine means you don't have to write code, but building blocks still inherit how computers speak.
+
+"What is this loop function and why do I need it?! I just want to show an inventory page!" — that was me six months ago.
+
+I felt stupid for not being able to understand those no-code engines. I learned that computers have a certain way of speaking. I can't just say "give me an apple that jumps" — I need to provide clear instructions on how to load the apple, how to receive input from the user, and how the jump should behave.
+
+I wanted to understand how computers speak, so I picked up the free course from HarvardX — CS50. It's a challenging path I've chosen, but I expect to be able to build ANYTHING, not just games, to fulfill my mission.
+
+---
+
+5. Learning Godot While Building My First Game
+
+After months of CS50, I was able to choose any game engine without the condition "I can't code." I chose Godot because it is lightweight, free, and has a great community.
+
+I started with the GDQuest classes. After trying their intro, I purchased them because they are full of step-by-step guides that are less frustrating compared to CS50 homework.
+
+I used Linear app to create a Kanban board for my game — a list of fragmented tasks I need to do to finish it — and also put class chapters as spike cards (tasks to understand tools or technology before building). With this system, I can decide which chapter to pick up based on what I am currently building.
+
+It's important for me to have someone to bounce ideas off of, because when I get lost in making too many sprite animations, I have a reminder to look at the big picture and focus on important features.
+
+I used Aseprite to create pixel art sprites, and I also studied animation to make sure my game looks appealing. Unlike UX work in a corporate setting, I have full creative authority over my decisions — that makes me so happy about making things on my own.
+
+My first game is a 2048 game where you collect cats. I chose a relatively easy mechanic to start with so I have energy to go far. By the time I finished this journal, my game was already functional. I decided to keep writing devlogs to update on my game-making progress and find my community.

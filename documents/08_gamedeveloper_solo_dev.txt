@@ -1,0 +1,189 @@
+Making it Work as a Solo Game Developer
+
+I'm Jeffrey Nielson. I'm an independent developer coming from a game artist background, who recently started working solo. Now, I'm in the late stages of finishing my second self-directed project, Nova Drift. I'm no expert, but I've had some success, so I want to share some of what I've learned for aspiring small and solo developers, clear up some misconceptions, and also talk about how I got here and what I'm working on now.
+
+There are many strategies and approaches to game development. This one is just mine. Also, when I say that solo game development is "working for me", I don't have nearly enough data to know that it will continue to work for me. Having said that, I can say that based on my checkered career, there isn't really a particularly stable place to be in games. Anyone can bomb, and even huge, successful game corporations can lay you off without warning. Because of this, you might as well be doing what you love, whatever that is.
+
+---
+
+My Background
+
+I started playing around with pixel art in MS Paint when I was around 10 years old, mimicking the art style from Genesis JRPGs I loved. At 15, I joined my cousins and their programmer friend who were making a shooter-platformer. I played around with RPG Maker, and later discovered Game Maker. After college, where I studied art and design, I worked for a few game companies creating art and animation in a wide range of styles.
+
+I met PixelJam Games after sending them fan art for one of my favorite indie games. To my great surprise, they offered me contract work as a side job. They would later become my foot in the door to independent game development. Meanwhile, my primary employer's company was bought by Zynga, and I was swept up along with it. Despite having less-than-no interest in those types of games, I decided to go with it and see what it would do for my career. It ended up being incredibly valuable. I learned from talented and brilliant people, became a far better artist, and most importantly, figured out what I wanted out of life.
+
+---
+
+Gear Shift
+
+My greatest revelation was that I never truly wanted to be an artist. I didn't carry sketchbooks like the others, practice, or show off personal works. I wrote down ideas and made little games. Art turned out to be a means to an end: to create games. I never considered learning to program because I had been encouraged to be an artist all of my life. I had assumed it was my only entry point to the video game industry — and programming seemed incredibly inaccessible.
+
+Once I knew I wanted to be more than a small cog in the machine, I had to try. So, after two years, I put in my resignation. I worked with PixelJam for a few years on many small projects, benefiting greatly from their years of experience both thriving and struggling in the industry. I continued to practice coding with GameMaker, until one day Miles Tilmann of PixelJam suggested I try my hand at it full time for one of their clients. Unsure of myself, I reluctantly accepted.
+
+---
+
+Last Horizon and Nova Drift
+
+The game was a gravity-based planet lander game titled Last Horizon. I drafted a design for the game and got to work prototyping it. Rich Grillotti, PixelJam artist, handled the artwork. For the first time, I had nothing to do with the visuals of a game. The game was meant to be a small browser game, but we soon recognized its potential, and it ballooned into a year-long desktop and mobile project. It was really difficult. I had to solve a lot of problems I'd never encountered before, and lost faith a few times. However, to our surprise, the game was a hit on mobile.
+
+I started to wonder just how small a team I could manage. An earlier project of mine, Nova Drift, still interested me and I decided to make it my full time job and first solo endeavor, utilizing PixelJam as a publisher and hiring Miles for audio. Two years later, it's nearly finished.
+
+---
+
+Tips for Starting Out
+
+Be versatile, know your weaknesses.
+
+The common advice is to specialize in a field that can get you an entry level job, such as art, writing, or programming. This still makes sense, but if you want to work alone, you're going to need to be far more versatile. The trick is to practice by creating — just make something, anything, as soon as possible — and determine what your strengths and weaknesses are. Games encompass a huge number of specialized fields, and most people simply won't have time to excel in all of them. Once you know your weaknesses, you can design with these deficiencies in mind, or hire help to fill the gaps.
+
+In my case, I had a very strong art and animation background, and a fascination with design. By the end of Last Horizon, I was a pretty solid programmer — but I'd never had a chance to learn about audio, marketing, or production. Now that I'm self-directed, those are the areas I contract out or fill with partnerships.
+
+I believe it is far easier to be an artist or musician who learns to program than the other way around. Most people can learn to program well enough to create a game in a few years, but developing the arts can take most of your life. My advice is start early, hire out, or both.
+
+Don't underestimate what you can accomplish.
+
+I put off learning to code in earnest for decades. I thought it was "for another kind of person". It's not. It's intimidating, but you can learn it piece by piece.
+
+I recommend working for companies before going independent.
+
+Especially if you plan to work solo. First, there is an incredible amount to learn from the success and failure of other people. Failing a lot is really, really important. It's a lot better if they're failures you're witnessing, or at least still getting paid for, than failures that burn through your savings. Second, the contacts gained from doing so are too valuable to miss out on. You can benefit from these for the rest of your career. Moreover, working for companies hopefully provides you with a decent amount of startup capital so you don't have to rely on begging, borrowing, or crowdfunding.
+
+Networking and building contacts early will benefit you in the long term.
+
+They'll help you get eyes where you need them, cross-promote, and they may know how to solve problems you do not. I resisted Twitter and Facebook networking for years, relying on my employers and producers for networking. I failed to direct thousands of DeviantArt followers to my social media for future endeavors. I waited way too long to create Reddit presence and credibility. I never blogged or wrote about what I was doing.
+
+Beyond the internet, make as many meaningful connections as you can. Attend conventions, talk to people, attend events, or work in shared dev spaces. Always remember to be polite, giving, and gracious. People are far more likely to help you or care about what you're doing if you show genuine interest in them too.
+
+The most important contact I have ever made, PixelJam Games, was made by sending them fan art. This small gesture quite literally changed my life. I was hired, creatively galvanized, and relocated to a new state. Don't underestimate the power of a bold initiative and a little fearlessness.
+
+Make things, whenever you have time.
+
+Anything that aligns with your passion and your goals. In doing so, you can let your work do the talking for you while you're networking. I got my first game job by showing the art director a little pixel art shoot 'em up game I had created in GameMaker. He told me, "This is the most fun interview I've ever done." Even if your first creation is hot garbage, it shows great character to have finished the thing on your own impetus.
+
+---
+
+Tips for Developing
+
+Write down all of your ideas, even the bad ones.
+
+Scribbles, diagrams, ideas that are nothing more than titles, your spouse's bad ideas, everything. Archive all of these, make a collection. You'll find uses for some of them later, and others will coalesce into a greater idea.
+
+Rapid prototyping — get your hands on it.
+
+Prototype ideas often to find out what works and what doesn't. You really won't know until you get your hands on it in action. Game Maker Studio is an alternative to Unity, and a good tool for prototyping if you're still getting the hang of coding or come from an art background. In fact, I still use it for professional development today. It's also great for weekend game jams, which are awesome for getting reinvigorated during long projects.
+
+Get other people's hands on it.
+
+When we design, we are sort of in a vacuum and take things for granted. Testers will reveal fundamental problems with your game very quickly that you didn't consider. I recommend keeping silent as they play and avoiding helping — you won't be there to help your players once the game is out. Recognize that frustrations are places where the game fails to convey what is needed of the player. Do this early. Fundamental flaws are not something you want to discover at the 11th hour.
+
+Above all, keep things simple.
+
+The tradeoff for complete control is that you have to be incredibly conservative with scope and features due to lack of manpower. Because I'm designing and programming as well, I can't spend all day polishing a painterly masterpiece. Instead, I choose a simple and stylish aesthetic which allows me to rapidly create art and execute ideas. Undertale is a good example of this working well, as is Super Hexagon, Geometry Wars, and Spelunky.
+
+Don't make your masterpiece your first game.
+
+You should try to keep your first few projects very, very small. Maybe even attempt the tiniest crash course to get all of the problems out of the way. What you do NOT want is to encounter every inevitable hang-up and brick wall on your grandest, favorite idea, losing your valuable momentum. That game should be your third or fourth, maybe.
+
+Plan, but not too much.
+
+Nobody's estimates are accurate. Just know that it will take far, far longer than you expect. It's very easy for a 3-month game idea to turn into several years if you aren't careful. As you develop, you'll often find that your game starts to deviate from your original concept. This is fine — the game informs its own design. Where you need to be alarmed is when the game idea begins to proliferate considerably larger than you had originally planned. This is called "feature creep", and depending on your restraint and financial situation, it can either bury a project or improve it. Decide how much you want to allow your project to grow over time, and be strict about it.
+
+Don't over do it.
+
+Inevitably, as you develop, your skill as a programmer will grow immensely from sheer repetition and immersion. You may be faced with the urge to constantly correct mistakes, over-optimize, and even rip things apart and start over. I suggest not doing this. Instead, get it working well, but accept that your early work will inevitably be below your standards and look forward. Do it right in the next game. Unless it's ruining the performance of your game, that imperfect code won't make a huge difference — it's more valuable to complete the project, start building your audience, and begin earning revenue.
+
+---
+
+Keeping it Tight and Affordable
+
+Live cheap.
+
+Unless you're very solvent to begin with, the full creative control that solo dev allows you comes with a heavy demand: live and work cheaply. The big thing is staying small — by definition, employees and employers are out of the picture, but that doesn't mean you won't have partners, such as publishers, or work with contractors. Keep it to the absolute minimum. I've seen many games and studios wither and die because overzealous creators struck too many deals and split the pie too many different ways, beyond the game's capability to generate cash.
+
+A big company wants to grow; you should want the opposite — become as lean as physically possible. In doing so you can be agile and focus on your strength: creating a uniquely cohesive product in the way only a lone visionary can. Generally speaking, if you can do it yourself well, do it. However, be willing to pay generously to hire out work you can't do well. If you can't compose music or write, paying for that could make a huge difference in the reception of your game.
+
+Be cautious about cutting people in.
+
+There are many ways people you don't know well can throw you a curve ball, or even kill your game. Look for and learn to read red flags. Ask yourself: Do they have a library of creations to verify their skill and follow-through? Are they earnest and forthright with you? Does it seem like they're trying to sell you something? Are they promising impossible or unlikely things? Is there anyone you trust to vouch for them? Have you protected yourself legally?
+
+Auxiliary Income
+
+Crowdfunding: Use it, don't need it. Platforms like Kickstarter are wonderful, but they're often misused. People rely on it, get caught up in the hype, become desperate, and make too many promises. In the end, many cannot deliver, run out of money, or delay until they're vaporware. Bottom line: Definitely use it, but never need it. I personally won't ever create a Kickstarter campaign until I know for certain I can deliver my product without it. It's great for having extra funds to survive the long stretch, but if your game cannot survive without being crowdfunded, it should not be created in the first place.
+
+Backers can't read your mind. Your game idea may be crystal clear in your head, but if a stranger watches the video and doesn't understand what the game is, they won't be backing it. Make sure a lot of people see your trailer and provide critical feedback. Show it to hard-ass devs and ask them to be brutal. Above all, be honest and as transparent as possible with your backers. They will appreciate it, and it will generate faith in you.
+
+---
+
+Self Promotion
+
+It's OK to ask for help. Getting used to this was the hardest bit for me. You have to do it, and there's nothing wrong with it. People are far more likely to help you if you show genuine interest in them too. Start a conversation, talk about what's important to them. Ask them for a signal boost if they're into what you're making. I recommend using Facebook, Twitter, maybe a blog if you enjoy it. Good hashtags to use are #indiedev and #gamedev. Post a lot, show your passion, and as long as you're respectful and your product is good, people will help you.
+
+---
+
+Managing Challenges
+
+Don't go crazy.
+
+Bear in mind that working alone, creatively, can have some psychological tolls. When you work for years on something important to you, it's easy to give in to doubt and anxiety. The longer you work on it, the greater it seems to need to be to live up to that.
+
+Some things you can do to counter this:
+
+Move around. Work from cafes, outside, or in shared work spaces in cities.
+
+Don't make your sleep-zone or gaming-zone be your work area. That separation helps you relax during off-time.
+
+Take advantage of your flexible schedule. If it works for you, occasionally break up your work day and enjoy the daylight outside.
+
+Get and give feedback from developers you trust, who are also making awesome things.
+
+During the drag of a long project, take days to work on something else — game jams, or new ideas.
+
+You should love it.
+
+If you can make a game, there are much easier ways to use your talents to make lots of money. If you're in this field, it should bring you joy. If that's not happening, and it's not on the horizon, you should reconsider the path you're on.
+
+---
+
+TL;DR
+
+Work for a company first, earn some coin, experience, and recruit allies.
+
+Try to become versatile, and don't underestimate what you can learn.
+
+Determine your strengths and weaknesses, and know how to fill in the gaps with help.
+
+Spend good money on things you can't do well.
+
+Start building an online following as soon as possible.
+
+Write all of your ideas down, bad ones too.
+
+Create a lot — good things, bad things, just create.
+
+Get people to test early, because you're in a vacuum and take things for granted.
+
+Don't try to make your first game your masterpiece.
+
+Plan, but not too much.
+
+Don't over-optimize or start over — instead do it better the next time.
+
+Finish projects and don't get ahead of yourself.
+
+Keep your business as simple and as small as you can.
+
+Be careful who you sign on with and what you sign up for.
+
+Live cheaply.
+
+Don't feature creep.
+
+Crowdfund for extra money or use early access, but never rely on these.
+
+Promote and share often, don't be afraid to ask for help, but don't be annoying either.
+
+Care about what other people are doing and they will care about your work.
+
+Master solitude, self-doubt, and distraction.
+
+Love what you are doing, and if you don't, change course.
