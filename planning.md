@@ -122,10 +122,11 @@ flowchart LR
     C --> D[Retrieval]
     D --> E[Generation]
 
-    B -.-> B1["1000 chars\n200 char overlap"]
+    B -.-> B1["300 chars\n20 char overlap\nParagraph-aware grouping"]
     C -.-> C1["all-MiniLM-L6-v2\nsentence-transformers"]
     C -.-> C2["ChromaDB"]
-    D -.-> D1["Top-k: 5"]
+    D -.-> D1["Top-k: 6\nDistance filter: 0.55"]
+    E -.-> E1["llama-3.3-70b-versatile\nGroq API"]
 ```
 
 ---
@@ -144,16 +145,16 @@ flowchart LR
 
 I plan to use Claude as my primary tool throughout the pipeline, with Copilot for in-editor autocomplete and ChatGPT occasionally for cross-referencing outputs.
 
-**Chunking (`chunk_text()`):** I will give Claude my Chunking Strategy section (1000-character chunks, 200-character overlap) and ask it to implement a `chunk_text()` function matching those exact parameters. I will verify the output by running it on a sample document and manually confirming chunk sizes and overlap boundaries are correct.
+**Chunking (`chunk_text()`):** I will give Claude my Chunking Strategy section (300-character chunks, 20-character overlap, *was updated after testing*) and ask it to implement a `chunk_text()` function matching those exact parameters. I will verify the output by running it on a sample document and manually confirming chunk sizes and overlap boundaries are correct.
 
-**Embedding & Retrieval:** I will give Claude my Retrieval Approach section (all-MiniLM-L6-v2, top-5) and ask it to implement the embedding and retrieval pipeline. I will verify by querying with one of my evaluation questions and checking that 5 relevant chunks are returned.
+**Embedding & Retrieval:** I will give Claude my Retrieval Approach section (all-MiniLM-L6-v2, top-6, *was updated after testing*) and ask it to implement the embedding and retrieval pipeline. I will verify by querying with one of my evaluation questions and checking that 6 relevant chunks are returned.
 
 **RAG Pipeline:** I will give Claude the full planning.md and ask it to wire together the chunking, embedding, retrieval, and generation steps into a working pipeline. I will verify the output against my Evaluation Plan by running all 5 test questions and checking that answers align with expected responses.
 
 **Debugging:** When outputs are unexpected, I will share the relevant code and retrieved chunks with Claude and ask it to identify where the pipeline is breaking down. I will cross-reference with ChatGPT if Claude's explanation is unclear.
 
-**Milestone 3 — Ingestion and chunking:**
+**Milestone 3 — Ingestion and chunking:** I will give Claude the Chunking Strategy section and Tinker Lab ingest.py as reference to generate chunk_document() with paragraph-aware grouping.
 
-**Milestone 4 — Embedding and retrieval:**
+**Milestone 4 — Embedding and retrieval:** I will give Claude the Retrieval Approach section and Tinker Lab retriever.py to generate embed_and_store() and retrieve() with ChromaDB and all-MiniLM-L6-v2.
 
-**Milestone 5 — Generation and interface:**
+**Milestone 5 — Generation and interface:** I will give Claude the Grounded Generation section and Tinker Lab generator.py to generate generate_response() with grounded prompting and the Gradio UI.
